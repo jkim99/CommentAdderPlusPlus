@@ -1,0 +1,6 @@
+double
+int
+String
+
+println() : prints x with line
+print() : prints x
